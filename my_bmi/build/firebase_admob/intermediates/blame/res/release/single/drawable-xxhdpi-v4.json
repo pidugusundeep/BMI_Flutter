@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/sundeeppiugu/Documents/BMI_Flutter/my_bmi/build/firebase_admob/intermediates/res/merged/release/drawable-xxhdpi-v4/common_google_signin_btn_text_light_normal_background.9.png",
+        "source": "/Users/sundeeppiugu/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/706903b29d613cdbe92a430ea0559bde/res/drawable-xxhdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/sundeeppiugu/Documents/BMI_Flutter/my_bmi/build/firebase_admob/intermediates/res/merged/release/drawable-xxhdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png",
+        "source": "/Users/sundeeppiugu/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/706903b29d613cdbe92a430ea0559bde/res/drawable-xxhdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/sundeeppiugu/Documents/BMI_Flutter/my_bmi/build/firebase_admob/intermediates/res/merged/release/drawable-xxhdpi-v4/googleg_standard_color_18.png",
+        "source": "/Users/sundeeppiugu/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/706903b29d613cdbe92a430ea0559bde/res/drawable-xxhdpi-v4/googleg_standard_color_18.png"
+    },
+    {
+        "merged": "/Users/sundeeppiugu/Documents/BMI_Flutter/my_bmi/build/firebase_admob/intermediates/res/merged/release/drawable-xxhdpi-v4/googleg_disabled_color_18.png",
+        "source": "/Users/sundeeppiugu/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/706903b29d613cdbe92a430ea0559bde/res/drawable-xxhdpi-v4/googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "/Users/sundeeppiugu/Documents/BMI_Flutter/my_bmi/build/firebase_admob/intermediates/res/merged/release/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png",
+        "source": "/Users/sundeeppiugu/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/706903b29d613cdbe92a430ea0559bde/res/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/sundeeppiugu/Documents/BMI_Flutter/my_bmi/build/firebase_admob/intermediates/res/merged/release/drawable-xxhdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png",
+        "source": "/Users/sundeeppiugu/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/706903b29d613cdbe92a430ea0559bde/res/drawable-xxhdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
+    }
+]

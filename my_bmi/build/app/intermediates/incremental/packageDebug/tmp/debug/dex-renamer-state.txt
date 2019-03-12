@@ -1,0 +1,4 @@
+#Tue Mar 12 18:40:16 IST 2019
+base.0=/Users/sundeeppiugu/Documents/BMI_Flutter/my_bmi/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

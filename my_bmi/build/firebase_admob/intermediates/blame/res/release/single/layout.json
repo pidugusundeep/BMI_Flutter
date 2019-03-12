@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "/Users/sundeeppiugu/Documents/BMI_Flutter/my_bmi/build/firebase_admob/intermediates/res/merged/release/layout/notification_template_big_media_custom.xml",
+        "source": "/Users/sundeeppiugu/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/efe6c84cf18a21b6a0beb801648f175f/res/layout/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/Users/sundeeppiugu/Documents/BMI_Flutter/my_bmi/build/firebase_admob/intermediates/res/merged/release/layout/notification_media_cancel_action.xml",
+        "source": "/Users/sundeeppiugu/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/efe6c84cf18a21b6a0beb801648f175f/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/sundeeppiugu/Documents/BMI_Flutter/my_bmi/build/firebase_admob/intermediates/res/merged/release/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/sundeeppiugu/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/029f9b47472846a61ae50afee622a6a4/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/sundeeppiugu/Documents/BMI_Flutter/my_bmi/build/firebase_admob/intermediates/res/merged/release/layout/notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/sundeeppiugu/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/efe6c84cf18a21b6a0beb801648f175f/res/layout/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/Users/sundeeppiugu/Documents/BMI_Flutter/my_bmi/build/firebase_admob/intermediates/res/merged/release/layout/notification_template_media_custom.xml",
+        "source": "/Users/sundeeppiugu/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/efe6c84cf18a21b6a0beb801648f175f/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/Users/sundeeppiugu/Documents/BMI_Flutter/my_bmi/build/firebase_admob/intermediates/res/merged/release/layout/notification_template_lines_media.xml",
+        "source": "/Users/sundeeppiugu/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/efe6c84cf18a21b6a0beb801648f175f/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/Users/sundeeppiugu/Documents/BMI_Flutter/my_bmi/build/firebase_admob/intermediates/res/merged/release/layout/notification_template_media.xml",
+        "source": "/Users/sundeeppiugu/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/efe6c84cf18a21b6a0beb801648f175f/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/sundeeppiugu/Documents/BMI_Flutter/my_bmi/build/firebase_admob/intermediates/res/merged/release/layout/notification_template_big_media.xml",
+        "source": "/Users/sundeeppiugu/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/efe6c84cf18a21b6a0beb801648f175f/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/sundeeppiugu/Documents/BMI_Flutter/my_bmi/build/firebase_admob/intermediates/res/merged/release/layout/notification_media_action.xml",
+        "source": "/Users/sundeeppiugu/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/efe6c84cf18a21b6a0beb801648f175f/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/sundeeppiugu/Documents/BMI_Flutter/my_bmi/build/firebase_admob/intermediates/res/merged/release/layout/notification_template_big_media_narrow.xml",
+        "source": "/Users/sundeeppiugu/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/efe6c84cf18a21b6a0beb801648f175f/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/sundeeppiugu/Documents/BMI_Flutter/my_bmi/build/firebase_admob/intermediates/res/merged/release/layout/notification_template_part_time.xml",
+        "source": "/Users/sundeeppiugu/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/029f9b47472846a61ae50afee622a6a4/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/sundeeppiugu/Documents/BMI_Flutter/my_bmi/build/firebase_admob/intermediates/res/merged/release/layout/notification_template_icon_group.xml",
+        "source": "/Users/sundeeppiugu/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/029f9b47472846a61ae50afee622a6a4/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/sundeeppiugu/Documents/BMI_Flutter/my_bmi/build/firebase_admob/intermediates/res/merged/release/layout/notification_action_tombstone.xml",
+        "source": "/Users/sundeeppiugu/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/029f9b47472846a61ae50afee622a6a4/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/sundeeppiugu/Documents/BMI_Flutter/my_bmi/build/firebase_admob/intermediates/res/merged/release/layout/notification_action.xml",
+        "source": "/Users/sundeeppiugu/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/029f9b47472846a61ae50afee622a6a4/res/layout/notification_action.xml"
+    }
+]
