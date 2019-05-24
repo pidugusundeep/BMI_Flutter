@@ -1,2 +1,2 @@
-# BMI---Flutter
-BMI app using Flutter
+# BMI
+BMI app using Flutter -> https://flutter.dev/
