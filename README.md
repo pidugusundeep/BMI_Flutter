@@ -1,7 +1,7 @@
 <p align="center"><img src="http://pidugusundeep.in/images/My_BMI.png" height="150" width="150"/></p>
 
 
-Shows your body mass index (BMI) with your current height and weight.
+This application has the ability to calculate your body mass index based on your weight in kgs and height in cms which also has the elegant interface which shows the body shape for the BMI including the status of the BMI after the score whether its normal, underweight or overweight.
 
 <img src="http://pidugusundeep.in/images/BMI.gif" height="500" width="250" />
 
